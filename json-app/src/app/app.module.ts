@@ -14,6 +14,7 @@ import { FooterComponent } from './footer/footer.component';
 import { BlogComponent } from './blog/blog.component';
 import { ContactComponent } from './contact/contact.component';
 import { ResourcesComponent } from './resources/resources.component';
+import { environment } from 'src/environments/environment.prod';
 
 @NgModule({
   declarations: [

@@ -4,8 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'https://json-project-3e492.web.app',
-   firebaseConfig: {
+  firebaseConfig: {
     apiKey: "AIzaSyDzc2Qk39wZdpyBOcqdls2Hvh0e5d5qY5w",
     authDomain: "json-project-3e492.firebaseapp.com",
     projectId: "json-project-3e492",
