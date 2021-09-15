@@ -1,0 +1,387 @@
+
+  [
+  {
+    "pageId": "613dae0445c248718a251e16",
+    "pageCode": "LEGATEADMINHOME",
+    "pageName": "Legate Admin Home",
+    "facilityId": 1002,
+    "isEnabled": "true",
+    "roleTypeId": "1",
+    "pageOptions": [
+      {
+        "optionId": "613dbe4645c248718a251e1e",
+        "pageOptionsCode": "HEADER",
+        "pageOptionsName": "Header",
+        "facilityId": 1002,
+        "pageId": "613dae0445c248718a251e16",
+        "isEnabled": "true",
+        "roleTypeId": "1",
+        "pageCode": "LEGATEADMINHOME",
+        "pageName": "Legate Admin Home",
+        "menus": [
+          {
+            "pageMenuCode": "WHOWEARE",
+            "pageMenuName": "Who We Are?",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe4645c248718a251e1e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "HEADER",
+            "pageOptionsName": "Header"
+          },
+          {
+            "pageMenuCode": "PRODUCTS",
+            "pageMenuName": "Products",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe4645c248718a251e1e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "HEADER",
+            "pageOptionsName": "Header"
+          },
+          {
+            "pageMenuCode": "RESOURCES",
+            "pageMenuName": "Resources",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe4645c248718a251e1e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "HEADER",
+            "pageOptionsName": "Header"
+          },
+          {
+            "pageMenuCode": "LOGIN",
+            "pageMenuName": "Login",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe4645c248718a251e1e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "HEADER",
+            "pageOptionsName": "Header"
+          },
+          {
+            "pageMenuCode": "CREATEUSER",
+            "pageMenuName": "Create User",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe4645c248718a251e1e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "HEADER",
+            "pageOptionsName": "Header"
+          },
+          {
+            "pageMenuCode": "HELP&SUPPORT",
+            "pageMenuName": "Help & Support",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe4645c248718a251e1e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "HEADER",
+            "pageOptionsName": "Header"
+          }
+        ]
+      },
+      {
+        "optionId": "613dbe7d45c248718a251e1f",
+        "pageOptionsCode": "BODY",
+        "pageOptionsName": "Body",
+        "facilityId": 1002,
+        "pageId": "613dae0445c248718a251e16",
+        "isEnabled": "true",
+        "roleTypeId": "1",
+        "pageCode": "LEGATEADMINHOME",
+        "pageName": "Legate Admin Home",
+        "menus": [
+          {
+            "pageMenuCode": "SLIDES",
+            "pageMenuName": "Slides",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe7d45c248718a251e1f",
+            "roleTypeId": "1",
+            "pageOptionsCode": "BODY",
+            "pageOptionsName": "Body"
+          },
+          {
+            "pageMenuCode": "WHOWEARE?",
+            "pageMenuName": "Who We Are?",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe7d45c248718a251e1f",
+            "roleTypeId": "1",
+            "pageOptionsCode": "BODY",
+            "pageOptionsName": "Body"
+          },
+          {
+            "pageMenuCode": "PRODUCTS",
+            "pageMenuName": "Products",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe7d45c248718a251e1f",
+            "roleTypeId": "1",
+            "pageOptionsCode": "BODY",
+            "pageOptionsName": "Body"
+          },
+          {
+            "pageMenuCode": "RESOURCES",
+            "pageMenuName": "Resources",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbe7d45c248718a251e1f",
+            "roleTypeId": "1",
+            "pageOptionsCode": "BODY",
+            "pageOptionsName": "Body"
+          }
+        ]
+      },
+      {
+        "optionId": "613dbeae45c248718a251e20",
+        "pageOptionsCode": "FOOTER",
+        "pageOptionsName": "Footer",
+        "facilityId": 1002,
+        "pageId": "613dae0445c248718a251e16",
+        "isEnabled": "true",
+        "roleTypeId": "1",
+        "pageCode": "LEGATEADMINHOME",
+        "pageName": "Legate Admin Home",
+        "menus": [
+          {
+            "pageMenuCode": "LATESTNEWS",
+            "pageMenuName": "Latest News",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbeae45c248718a251e20",
+            "roleTypeId": "1",
+            "pageOptionsCode": "FOOTER",
+            "pageOptionsName": "Footer"
+          },
+          {
+            "pageMenuCode": "CONTACTUS",
+            "pageMenuName": "Contact Us",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbeae45c248718a251e20",
+            "roleTypeId": "1",
+            "pageOptionsCode": "FOOTER",
+            "pageOptionsName": "Footer"
+          },
+          {
+            "pageMenuCode": "NAME",
+            "pageMenuName": "Name",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbeae45c248718a251e20",
+            "roleTypeId": "1",
+            "pageOptionsCode": "FOOTER",
+            "pageOptionsName": "Footer"
+          },
+          {
+            "pageMenuCode": "EMAIL",
+            "pageMenuName": "Email",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbeae45c248718a251e20",
+            "roleTypeId": "1",
+            "pageOptionsCode": "FOOTER",
+            "pageOptionsName": "Footer"
+          },
+          {
+            "pageMenuCode": "MESSAGE",
+            "pageMenuName": "Message",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbeae45c248718a251e20",
+            "roleTypeId": "1",
+            "pageOptionsCode": "FOOTER",
+            "pageOptionsName": "Footer"
+          },
+          {
+            "pageMenuCode": "SUBMIT",
+            "pageMenuName": "Submit",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbeae45c248718a251e20",
+            "roleTypeId": "1",
+            "pageOptionsCode": "FOOTER",
+            "pageOptionsName": "Footer"
+          },
+          {
+            "pageMenuCode": "DESCRIPTION",
+            "pageMenuName": "Description",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dbeae45c248718a251e20",
+            "roleTypeId": "1",
+            "pageOptionsCode": "FOOTER",
+            "pageOptionsName": "Footer"
+          }
+        ]
+      },
+      {
+        "optionId": "613dc34545c248718a251e2d",
+        "pageOptionsCode": "LOGIN",
+        "pageOptionsName": "Login",
+        "facilityId": 1002,
+        "pageId": "613dae0445c248718a251e16",
+        "isEnabled": "true",
+        "roleTypeId": "1",
+        "pageCode": "LEGATEADMINHOME",
+        "pageName": "Legate Admin Home",
+        "menus": [
+          {
+            "pageMenuCode": "EMAIL",
+            "pageMenuName": "Email",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc34545c248718a251e2d",
+            "roleTypeId": "1",
+            "pageOptionsCode": "LOGIN",
+            "pageOptionsName": "Login"
+          },
+          {
+            "pageMenuCode": "PASSWORD",
+            "pageMenuName": "Password",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc34545c248718a251e2d",
+            "roleTypeId": "1",
+            "pageOptionsCode": "LOGIN",
+            "pageOptionsName": "Login"
+          },
+          {
+            "pageMenuCode": "SUBMIT",
+            "pageMenuName": "Submit",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc34545c248718a251e2d",
+            "roleTypeId": "1",
+            "pageOptionsCode": "LOGIN",
+            "pageOptionsName": "Login"
+          },
+          {
+            "pageMenuCode": "CANCEL",
+            "pageMenuName": "Cancel",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc34545c248718a251e2d",
+            "roleTypeId": "1",
+            "pageOptionsCode": "LOGIN",
+            "pageOptionsName": "Login"
+          },
+          {
+            "pageMenuCode": "FORGOTPASSWORD?",
+            "pageMenuName": "Forgot Password ?",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc34545c248718a251e2d",
+            "roleTypeId": "1",
+            "pageOptionsCode": "LOGIN",
+            "pageOptionsName": "Login"
+          },
+          {
+            "pageMenuCode": "CREATEACCOUNT",
+            "pageMenuName": "Create Account",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc34545c248718a251e2d",
+            "roleTypeId": "1",
+            "pageOptionsCode": "LOGIN",
+            "pageOptionsName": "Login"
+          }
+        ]
+      },
+      {
+        "optionId": "613dc3bc45c248718a251e2e",
+        "pageOptionsCode": "CREATEUSER",
+        "pageOptionsName": "Create User",
+        "facilityId": 1002,
+        "pageId": "613dae0445c248718a251e16",
+        "isEnabled": "true",
+        "roleTypeId": "1",
+        "pageCode": "LEGATEADMINHOME",
+        "pageName": "Legate Admin Home",
+        "menus": [
+          {
+            "pageMenuCode": "FIRSTNAME",
+            "pageMenuName": "First Name",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc3bc45c248718a251e2e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "CREATEUSER",
+            "pageOptionsName": "Create User"
+          },
+          {
+            "pageMenuCode": "LASTNAME",
+            "pageMenuName": "Last Name",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc3bc45c248718a251e2e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "CREATEUSER",
+            "pageOptionsName": "Create User"
+          },
+          {
+            "pageMenuCode": "EMAIL",
+            "pageMenuName": "Email",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc3bc45c248718a251e2e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "CREATEUSER",
+            "pageOptionsName": "Create User"
+          },
+          {
+            "pageMenuCode": "PASSWORD",
+            "pageMenuName": "Password",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc3bc45c248718a251e2e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "CREATEUSER",
+            "pageOptionsName": "Create User"
+          },
+          {
+            "pageMenuCode": "CONFIRMPASSWORD",
+            "pageMenuName": "Confirm Password",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc3bc45c248718a251e2e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "CREATEUSER",
+            "pageOptionsName": "Create User"
+          },
+          {
+            "pageMenuCode": "SUBMIT",
+            "pageMenuName": "Submit",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc3bc45c248718a251e2e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "CREATEUSER",
+            "pageOptionsName": "Create User"
+          },
+          {
+            "pageMenuCode": "CANCEL",
+            "pageMenuName": "Cancel",
+            "facilityId": 1002,
+            "isEnabled": "true",
+            "pageOptionsId": "613dc3bc45c248718a251e2e",
+            "roleTypeId": "1",
+            "pageOptionsCode": "CREATEUSER",
+            "pageOptionsName": "Create User"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pageId": "613dae6845c248718a251e17",
+    "pageCode": "LEGATEADMINWELCOME",
+    "pageName": "Legate Admin Welcome",
+    "facilityId": 1002,
+    "isEnabled": "true",
+    "roleTypeId": "1",
+    "pageOptions": []
+  }
+]
